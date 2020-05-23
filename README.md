@@ -10,3 +10,6 @@ is placed randomly on board.
 The mechanic of a game is based on two additional arrays (size 100 each):
   1. first - stores an address of cell on graphic board, where snake's head changes direction
   2. second - stores an ASCII code of new direction (119 - w, 115 - s, 97 - a, 100 - d)
+  
+  UPDATE: 
+  There is a folder on repo in which you can find implementation of snake game but using 64-bit intel assembly. It's a hybrid projects using C and assemlby. The GUI is quickly made using SDL library. The controls are the same as above.
